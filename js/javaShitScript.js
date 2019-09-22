@@ -27,7 +27,7 @@ function submitAnswers() {
 	}
 	if (errorSt) {
 		errormsg = errormsg + "Missing!";
-		document.getElementById('results').innerHTML = "<h2>"+errormsg+"</h2";
+		document.getElementById('results').innerHTML = "<h3>"+errormsg+"</h3";
 		document.getElementById('results').style.backgroundColor="red";
 	}else {
 		//Set correct answers
