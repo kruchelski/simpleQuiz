@@ -1,4 +1,4 @@
-# JavaShit Quiz!  
+# JavaShift Quiz!  
 ## A simple webpage with a little quiz just for Javascript practice.  
 
 ### Introduction   
